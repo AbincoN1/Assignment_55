@@ -106,7 +106,7 @@ namespace assignment_55
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Captain What is your todays Journal");
+            Console.WriteLine("Please Write the Declared Texts");
             string input = "";
             Captain_Jornal jornal = new Captain_Jornal();
             while (!input.Contains("stop"))
